@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JavaParcelableProject</string>
+    <string name="no_detail">No detail</string>
+    <string name="open_detail">Open Detail</string>
+    <string name="detail_page">Detail Page</string>
+    <string name="exit_detail">Exit Detail</string>
+</resources>
